@@ -8,11 +8,11 @@
 		<version>2.5.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>br.com.luisdev.sds.api</groupId>
-	<artifactId>sdsapi</artifactId>
+	<groupId>com.devsuperior</groupId>
+	<artifactId>dsvendas</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>sdsapi</name>
-	<description>SDS API</description>
+	<name>dsvendas</name>
+	<description>Semana Java 11 - Spring Boot 2.4 - ReactJs - DevSuperior</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
